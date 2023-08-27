@@ -1,6 +1,4 @@
 
-# 💫 About Me:
-🔭 I’m currently working on e-commerce app based on PERN stack <br>🌱 I’m also currently learning progressive Node.js framework called Nest.js<br>⚡ Fun fact: I was the official choice for Time's Person of the Year in 2006.<br>📫 How to reach me: nefedov.lewa@gmail.com
 
 
 # 💻 Tech Stack:
